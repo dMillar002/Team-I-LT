@@ -22938,3 +22938,6 @@ BlockoutMap14 (Other Actor)
 [2024.03.04-12.56.55:730][612]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.03.04-12.56.55:730][612]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.03.04-12.56.55:731][612]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.03.04-12.57.07:376][612]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.03.04-12.57.07:444][612]LogExit: Exiting.
+[2024.03.04-12.57.07:519][612]Log file closed, 03/04/24 12:57:07
